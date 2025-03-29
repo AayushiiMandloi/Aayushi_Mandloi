@@ -7,7 +7,26 @@
 
 ###
 
-<h2 align="left">Final-year Computer Science and Engineering student specializing in Java programming. Diligent and motivated with a keen interest in software development. Seeking opportunities to contribute to GitHub projects and gain practical experience in the field.</h2>
+<h2 align="left">👋 Hi there! I'm Aayushi Mandloi, a passionate Computer Science graduate with expertise in Java, Python, and Android Development. I love crafting intuitive applications, exploring automation, and building innovative solutions.
+
+💡 What I Do:
+🔹 Develop Android apps using Java & Android Studio
+🔹 Build interactive Python GUI applications with Tkinter
+🔹 Implement API Testing & Automation Testing techniques
+🔹 Work with Selenium, Rest Assured, and Postman for efficient testing
+
+📌 Featured Projects:
+🚗 Car Rental System – A Java-based system for smooth vehicle rental operations
+🏡 Home Inventory System – A Tkinter-based inventory management tool with CSV support
+🐶 Pet Care App – Android app with health tracking, reminders & pet listings
+
+📜 Certifications & Achievements:
+🏅 HackerRank Java (Basics) Certificate
+🏅 ACMEGRADES Android Development Training
+🏅 Infosys Java & Python Course Completion
+🏅 Coding Ninjas Innovate India Coding Championship
+
+</h2>
 
 ###
 
